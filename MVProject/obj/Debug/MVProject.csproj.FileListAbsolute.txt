@@ -1,0 +1,15 @@
+C:\Users\Neliuos\source\repos\MVProject\MVProject\bin\Debug\MVProject.exe.config
+C:\Users\Neliuos\source\repos\MVProject\MVProject\bin\Debug\MVProject.exe
+C:\Users\Neliuos\source\repos\MVProject\MVProject\bin\Debug\MVProject.pdb
+C:\Users\Neliuos\source\repos\MVProject\MVProject\obj\Debug\MVProject.csprojAssemblyReference.cache
+C:\Users\Neliuos\source\repos\MVProject\MVProject\obj\Debug\MVProject.Form1.resources
+C:\Users\Neliuos\source\repos\MVProject\MVProject\obj\Debug\MVProject.Properties.Resources.resources
+C:\Users\Neliuos\source\repos\MVProject\MVProject\obj\Debug\MVProject.csproj.GenerateResource.cache
+C:\Users\Neliuos\source\repos\MVProject\MVProject\obj\Debug\MVProject.csproj.CoreCompileInputs.cache
+C:\Users\Neliuos\source\repos\MVProject\MVProject\obj\Debug\MVProject.exe
+C:\Users\Neliuos\source\repos\MVProject\MVProject\obj\Debug\MVProject.pdb
+C:\Users\Neliuos\source\repos\MVProject\MVProject\obj\Debug\MVProject.register.resources
+C:\Users\Neliuos\source\repos\MVProject\MVProject\obj\Debug\MVProject.Login.resources
+C:\Users\Neliuos\source\repos\MVProject\MVProject\obj\Debug\MVProject.LoggedIn.resources
+C:\Users\Neliuos\source\repos\MVProject\MVProject\obj\Debug\MVProject.ChangePasword.resources
+C:\Users\Neliuos\source\repos\MVProject\MVProject\obj\Debug\MVProject.NewCompose.resources
